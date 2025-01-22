@@ -121,5 +121,4 @@ with Project(project_name="FundusLesions",
 
 ```
 
-For detailed Python integration examples, see our [Python SDK Documentation (under construction)]().
-
+For detailed Python integration examples, see our [Python SDK Documentation (under construction)](https://github.com/ClementPla/PyNotate/).
